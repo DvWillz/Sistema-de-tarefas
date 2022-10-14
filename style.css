@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+main {
+    margin: 5px;
+    width: 400px;
+    border-radius: 5px;
+    border: 2px solid green;
+    margin: auto;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(19, 18, 18);
+    text-align: center;
+    color: white;
+    border-color: blue;
+    border: 2px solid rgb(4, 124, 30);
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+input#button:active {
+    background-color: green;
+}
+
+
+div#menu input {
+    background-color: rgb(39, 39, 39);
+    color: white;
+    border: 1px solid green;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.tarefa {
+    color: white;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 5px;
+}
+
+.workb {
+    background-color: rgb(39, 39, 39);
+    color: white;
+    border: 1px solid green;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.workb:active {
+    background-color: green;
+}
